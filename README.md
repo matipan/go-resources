@@ -57,8 +57,9 @@ Listed below you will find a couple of JustForFunc's videos.
 [Implicitly Impacting the Cloud with Go - Kris Nova](https://www.youtube.com/watch?v=xwCYjtRi7fM)  
 [Google's high-performance, open source RPC framework - Sameer Ajmani](https://www.youtube.com/watch?v=sZx3oZt7LVg)  
 [Valuable Lessong in Over-Engineering the Core of Kubernetes kops - Kris Nova](https://www.youtube.com/watch?v=IiYHDDz_7mE)  
-[Encrypting the Internet with Go - Filippo Valsorda](https://www.youtube.com/watch?v=CB_VfgwPmxQ)
-[Fighting Latency: the CPU profiler is not your ally - Filippo Valsorda](https://www.youtube.com/watch?v=Lxt8Vqn4JiQ)
+[Encrypting the Internet with Go - Filippo Valsorda](https://www.youtube.com/watch?v=CB_VfgwPmxQ)  
+[Fighting Latency: the CPU profiler is not your ally - Filippo Valsorda](https://www.youtube.com/watch?v=Lxt8Vqn4JiQ)  
+[Using Go at The New York Times - JP Robinson](https://www.youtube.com/watch?v=bAQ9ShmXYLY)  
 
 ## Articles
 Must have for a deeper understading of Go
